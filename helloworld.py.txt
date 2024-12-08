@@ -1,3 +1,6 @@
 hi today is start to learn about devops
 
-learning
+learning git
+
+we try learning new things
+
